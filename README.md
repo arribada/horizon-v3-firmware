@@ -1,6 +1,6 @@
 # Arribada Horizon
 
-## Arribada Horizon Bio-Logging Platform V3
+## Arribada Horizon Bio-Logging Platform
 
 The **Arribada Horizon** bio-logging platform provides the building blocks necessary to develop customised bio-logging tags. Essential functionality is included as standard (GPS, Tri-axial accelerometer, Bluetooth 5). In addition, a picoblade expansion socket allows third party radio modules / additional daughterboards to be connected as required.
 
@@ -11,4 +11,8 @@ There are currently two releases;
 - **Arribada Horizon v2.0** (STM32 based)
 - **Arribada Horizon v3.0** (nRF52840 based)
 
-This repository contains the firmware for the V3 boards.
+### Arribada Horizon 3.0 ###
+
+This repository contains the firmware source code for V3 tags. To configure and interact with tags using this firmware, install the tools given in [this repository](https://github.com/arribada/horizon-v3-tools).
+
+Usage described in [wiki](https://github.com/arribada/horizon-v3-tools/wiki).
